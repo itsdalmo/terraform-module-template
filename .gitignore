@@ -4,7 +4,7 @@
 **/.terraform.lock.hcl
 crash.log
 
-# InteliJ IDE
+# IntelliJ IDE
 .idea/
 
 # Taskfile
